@@ -1,6 +1,6 @@
 # Data structure composer
 
-**[deployed here](ds.shlegeris.com)**
+**[deployed here](http://ds.shlegeris.com)**
 
 **Read [here](http://shlegeris.com/2016/11/13/ds.html) for a better description of this project!**
 
